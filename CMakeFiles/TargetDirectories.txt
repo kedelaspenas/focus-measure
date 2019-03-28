@@ -1,0 +1,3 @@
+/home/kristofer/Documents/fmeasure/CMakeFiles/rebuild_cache.dir
+/home/kristofer/Documents/fmeasure/CMakeFiles/fmeasure.dir
+/home/kristofer/Documents/fmeasure/CMakeFiles/edit_cache.dir

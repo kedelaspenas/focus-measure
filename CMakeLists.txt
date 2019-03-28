@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( fmeasure )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( fmeasure Fmeasure.cpp GLVA.cpp GLVN.cpp HISR.cpp ACMO.cpp TENG.cpp TENV.cpp main.cpp )
+target_link_libraries( fmeasure ${OpenCV_LIBS} )
