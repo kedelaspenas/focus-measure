@@ -29,12 +29,13 @@ CMakeFiles/fmeasure.dir/TENV.cpp.o: TENG.hpp
 CMakeFiles/fmeasure.dir/TENV.cpp.o: TENV.cpp
 CMakeFiles/fmeasure.dir/TENV.cpp.o: TENV.hpp
 
-CMakeFiles/fmeasure.dir/main.cpp.o: ACMO.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: Fmeasure.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: GLVA.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: GLVN.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: HISR.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: TENG.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: TENV.hpp
-CMakeFiles/fmeasure.dir/main.cpp.o: main.cpp
+CMakeFiles/fmeasure.dir/video.cpp.o: ACMO.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: Fmeasure.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: FmeasureFactory.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: GLVA.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: GLVN.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: HISR.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: TENG.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: TENV.hpp
+CMakeFiles/fmeasure.dir/video.cpp.o: video.cpp
 

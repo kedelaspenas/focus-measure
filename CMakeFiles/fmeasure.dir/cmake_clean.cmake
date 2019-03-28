@@ -6,7 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/fmeasure.dir/ACMO.cpp.o"
   "CMakeFiles/fmeasure.dir/TENG.cpp.o"
   "CMakeFiles/fmeasure.dir/TENV.cpp.o"
-  "CMakeFiles/fmeasure.dir/main.cpp.o"
+  "CMakeFiles/fmeasure.dir/video.cpp.o"
   "fmeasure.pdb"
   "fmeasure"
 )

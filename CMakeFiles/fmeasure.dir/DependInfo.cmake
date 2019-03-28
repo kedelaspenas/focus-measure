@@ -11,7 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/kristofer/Documents/fmeasure/HISR.cpp" "/home/kristofer/Documents/fmeasure/CMakeFiles/fmeasure.dir/HISR.cpp.o"
   "/home/kristofer/Documents/fmeasure/TENG.cpp" "/home/kristofer/Documents/fmeasure/CMakeFiles/fmeasure.dir/TENG.cpp.o"
   "/home/kristofer/Documents/fmeasure/TENV.cpp" "/home/kristofer/Documents/fmeasure/CMakeFiles/fmeasure.dir/TENV.cpp.o"
-  "/home/kristofer/Documents/fmeasure/main.cpp" "/home/kristofer/Documents/fmeasure/CMakeFiles/fmeasure.dir/main.cpp.o"
+  "/home/kristofer/Documents/fmeasure/video.cpp" "/home/kristofer/Documents/fmeasure/CMakeFiles/fmeasure.dir/video.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

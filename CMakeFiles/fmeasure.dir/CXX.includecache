@@ -32,6 +32,24 @@ opencv2/opencv.hpp
 string
 -
 
+/home/kristofer/Documents/fmeasure/FmeasureFactory.hpp
+string
+-
+Fmeasure.hpp
+/home/kristofer/Documents/fmeasure/Fmeasure.hpp
+GLVN.hpp
+/home/kristofer/Documents/fmeasure/GLVN.hpp
+GLVA.hpp
+/home/kristofer/Documents/fmeasure/GLVA.hpp
+HISR.hpp
+/home/kristofer/Documents/fmeasure/HISR.hpp
+ACMO.hpp
+/home/kristofer/Documents/fmeasure/ACMO.hpp
+TENG.hpp
+/home/kristofer/Documents/fmeasure/TENG.hpp
+TENV.hpp
+/home/kristofer/Documents/fmeasure/TENV.hpp
+
 /home/kristofer/Documents/fmeasure/GLVA.cpp
 GLVA.hpp
 /home/kristofer/Documents/fmeasure/GLVA.hpp
@@ -98,23 +116,13 @@ TENG.hpp
 opencv2/opencv.hpp
 -
 
-/home/kristofer/Documents/fmeasure/main.cpp
-iostream
+/home/kristofer/Documents/fmeasure/video.cpp
+opencv2/core/core.hpp
 -
-opencv2/opencv.hpp
+opencv2/highgui/highgui.hpp
 -
 string
 -
-GLVA.hpp
-/home/kristofer/Documents/fmeasure/GLVA.hpp
-GLVN.hpp
-/home/kristofer/Documents/fmeasure/GLVN.hpp
-HISR.hpp
-/home/kristofer/Documents/fmeasure/HISR.hpp
-ACMO.hpp
-/home/kristofer/Documents/fmeasure/ACMO.hpp
-TENG.hpp
-/home/kristofer/Documents/fmeasure/TENG.hpp
-TENV.hpp
-/home/kristofer/Documents/fmeasure/TENV.hpp
+FmeasureFactory.hpp
+/home/kristofer/Documents/fmeasure/FmeasureFactory.hpp
 

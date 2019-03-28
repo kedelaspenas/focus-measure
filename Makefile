@@ -312,32 +312,32 @@ TENV.cpp.s:
 	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/TENV.cpp.s
 .PHONY : TENV.cpp.s
 
-main.o: main.cpp.o
+video.o: video.cpp.o
 
-.PHONY : main.o
+.PHONY : video.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/main.cpp.o
-.PHONY : main.cpp.o
+video.cpp.o:
+	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/video.cpp.o
+.PHONY : video.cpp.o
 
-main.i: main.cpp.i
+video.i: video.cpp.i
 
-.PHONY : main.i
+.PHONY : video.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/main.cpp.i
-.PHONY : main.cpp.i
+video.cpp.i:
+	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/video.cpp.i
+.PHONY : video.cpp.i
 
-main.s: main.cpp.s
+video.s: video.cpp.s
 
-.PHONY : main.s
+.PHONY : video.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/main.cpp.s
-.PHONY : main.cpp.s
+video.cpp.s:
+	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/video.cpp.s
+.PHONY : video.cpp.s
 
 # Help Target
 help:
@@ -369,9 +369,9 @@ help:
 	@echo "... TENV.o"
 	@echo "... TENV.i"
 	@echo "... TENV.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... video.o"
+	@echo "... video.i"
+	@echo "... video.s"
 .PHONY : help
 
 

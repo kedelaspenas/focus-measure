@@ -225,28 +225,28 @@ CMakeFiles/fmeasure.dir/TENV.cpp.o.provides: CMakeFiles/fmeasure.dir/TENV.cpp.o.
 CMakeFiles/fmeasure.dir/TENV.cpp.o.provides.build: CMakeFiles/fmeasure.dir/TENV.cpp.o
 
 
-CMakeFiles/fmeasure.dir/main.cpp.o: CMakeFiles/fmeasure.dir/flags.make
-CMakeFiles/fmeasure.dir/main.cpp.o: main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kristofer/Documents/fmeasure/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/fmeasure.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fmeasure.dir/main.cpp.o -c /home/kristofer/Documents/fmeasure/main.cpp
+CMakeFiles/fmeasure.dir/video.cpp.o: CMakeFiles/fmeasure.dir/flags.make
+CMakeFiles/fmeasure.dir/video.cpp.o: video.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kristofer/Documents/fmeasure/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/fmeasure.dir/video.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/fmeasure.dir/video.cpp.o -c /home/kristofer/Documents/fmeasure/video.cpp
 
-CMakeFiles/fmeasure.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fmeasure.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kristofer/Documents/fmeasure/main.cpp > CMakeFiles/fmeasure.dir/main.cpp.i
+CMakeFiles/fmeasure.dir/video.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/fmeasure.dir/video.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kristofer/Documents/fmeasure/video.cpp > CMakeFiles/fmeasure.dir/video.cpp.i
 
-CMakeFiles/fmeasure.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fmeasure.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kristofer/Documents/fmeasure/main.cpp -o CMakeFiles/fmeasure.dir/main.cpp.s
+CMakeFiles/fmeasure.dir/video.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/fmeasure.dir/video.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kristofer/Documents/fmeasure/video.cpp -o CMakeFiles/fmeasure.dir/video.cpp.s
 
-CMakeFiles/fmeasure.dir/main.cpp.o.requires:
+CMakeFiles/fmeasure.dir/video.cpp.o.requires:
 
-.PHONY : CMakeFiles/fmeasure.dir/main.cpp.o.requires
+.PHONY : CMakeFiles/fmeasure.dir/video.cpp.o.requires
 
-CMakeFiles/fmeasure.dir/main.cpp.o.provides: CMakeFiles/fmeasure.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/fmeasure.dir/main.cpp.o.provides
+CMakeFiles/fmeasure.dir/video.cpp.o.provides: CMakeFiles/fmeasure.dir/video.cpp.o.requires
+	$(MAKE) -f CMakeFiles/fmeasure.dir/build.make CMakeFiles/fmeasure.dir/video.cpp.o.provides.build
+.PHONY : CMakeFiles/fmeasure.dir/video.cpp.o.provides
 
-CMakeFiles/fmeasure.dir/main.cpp.o.provides.build: CMakeFiles/fmeasure.dir/main.cpp.o
+CMakeFiles/fmeasure.dir/video.cpp.o.provides.build: CMakeFiles/fmeasure.dir/video.cpp.o
 
 
 # Object files for target fmeasure
@@ -258,7 +258,7 @@ fmeasure_OBJECTS = \
 "CMakeFiles/fmeasure.dir/ACMO.cpp.o" \
 "CMakeFiles/fmeasure.dir/TENG.cpp.o" \
 "CMakeFiles/fmeasure.dir/TENV.cpp.o" \
-"CMakeFiles/fmeasure.dir/main.cpp.o"
+"CMakeFiles/fmeasure.dir/video.cpp.o"
 
 # External object files for target fmeasure
 fmeasure_EXTERNAL_OBJECTS =
@@ -270,7 +270,7 @@ fmeasure: CMakeFiles/fmeasure.dir/HISR.cpp.o
 fmeasure: CMakeFiles/fmeasure.dir/ACMO.cpp.o
 fmeasure: CMakeFiles/fmeasure.dir/TENG.cpp.o
 fmeasure: CMakeFiles/fmeasure.dir/TENV.cpp.o
-fmeasure: CMakeFiles/fmeasure.dir/main.cpp.o
+fmeasure: CMakeFiles/fmeasure.dir/video.cpp.o
 fmeasure: CMakeFiles/fmeasure.dir/build.make
 fmeasure: /usr/lib/x86_64-linux-gnu/libopencv_shape.so.3.2.0
 fmeasure: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.3.2.0
@@ -329,7 +329,7 @@ CMakeFiles/fmeasure.dir/requires: CMakeFiles/fmeasure.dir/HISR.cpp.o.requires
 CMakeFiles/fmeasure.dir/requires: CMakeFiles/fmeasure.dir/ACMO.cpp.o.requires
 CMakeFiles/fmeasure.dir/requires: CMakeFiles/fmeasure.dir/TENG.cpp.o.requires
 CMakeFiles/fmeasure.dir/requires: CMakeFiles/fmeasure.dir/TENV.cpp.o.requires
-CMakeFiles/fmeasure.dir/requires: CMakeFiles/fmeasure.dir/main.cpp.o.requires
+CMakeFiles/fmeasure.dir/requires: CMakeFiles/fmeasure.dir/video.cpp.o.requires
 
 .PHONY : CMakeFiles/fmeasure.dir/requires
 
